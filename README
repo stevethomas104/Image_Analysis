@@ -4,6 +4,9 @@ Some scripts for doing image processing and analysis with python
 
 **background_removal.ipynb**
 
+Jupyter notebook that runs different background removal methods (mean, median, gaussain and rolling ball).
+
+
 
 
 
